@@ -1,0 +1,6 @@
+{
+  "name": "Corn Experimental Plot Dashboard",
+  "description": "แดชบอร์ดวิเคราะห์ผลการวิจัยและทดลองข้าวโพดไร่ 36 แปลงย่อย (RCBD) พร้อมเครื่องมือสร้างระบบแจ้งเตือนอีเมลและ LINE Notify PDF สรุปประจำสัปดาห์ด้วย Google Apps Script",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
